@@ -1593,7 +1593,7 @@ nav>div:last-child a:hover {
         cursor: pointer;
     }
     .ham.active{
-        color: #ff6b2b;
+        border: 1px solid #ff6b2b;
     }
 
     .nav-links.show {
@@ -1601,8 +1601,8 @@ nav>div:last-child a:hover {
     flex-direction: column;
     position: absolute;
     top: 80px;
-    left: 270px;
-    width: 55%;
+    left: 175px;
+    width: 60%;
     padding: 25px;
     background-color: #27272a;
     border-bottom: 1px solid #a1a1aa;
